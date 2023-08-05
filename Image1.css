@@ -1,0 +1,28 @@
+#img1{
+    position: relative;
+    top: -40px;
+    
+}
+#msg1{
+    position: relative;
+    top: 40px;
+}
+#score{
+    position: relative;
+    top: 10px;
+}
+#restart{
+    position: relative;
+    top: -20px;
+    background-color: skyblue;
+}
+#left{
+position: relative;
+right: 320px;
+top: 240px;
+}
+#right{
+    position: relative;
+    left: 320px;
+    top: 210px;
+}
